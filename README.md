@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Gabrielle! 👋
 
 <!--
 **granolagabrielle/granolagabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on:
+- Building a mobile application to manage my knitting hobby, using React Native, TypeScript and Expo.
+- Refreshing my portfolio, [granolagabrielle](https://granolagabrielle.github.io/)
+- Applying to software developer jobs!
+
+I'm currently learning:
+- React Native
+- TypeScript
+- Swift, with the help of [this iOS dev course]([url](https://www.codecademy.com/learn/paths/ios-developer)) on Codecademy.
+
+How to reach me:
+- Via email: gbennek.gb@gmail.com
