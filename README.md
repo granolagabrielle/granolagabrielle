@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently working on:
-- Building a mobile application to manage my knitting hobby, using React Native, TypeScript and Expo.
+- Building a mobile application to manage my knitting hobby, using React Native, TypeScript and Expo
 - Refreshing my portfolio, [granolagabrielle](https://granolagabrielle.github.io/)
 - Applying to software developer jobs!
 
 I'm currently learning:
 - React Native
 - TypeScript
-- Swift, with the help of [this iOS dev course]([url](https://www.codecademy.com/learn/paths/ios-developer)) on Codecademy.
+- Swift, with the help of [this iOS dev course](https://www.codecademy.com/learn/paths/ios-developer) on Codecademy
 
 How to reach me:
 - Via email: gbennek.gb@gmail.com
